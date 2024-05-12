@@ -1,0 +1,12 @@
+.program-card{
+   padding: 20px 20px;
+    border-radius: 5%;
+    background-color: #EDDCC5;
+    
+    /* margin: 10px; */
+
+}
+
+.program-card p{
+    background-color: #EDDCC5;
+}

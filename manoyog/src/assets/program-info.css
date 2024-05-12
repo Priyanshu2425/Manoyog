@@ -1,0 +1,8 @@
+.program-section{
+   display: flex;
+   justify-content: space-around;
+    
+}
+.program-section::-webkit-scrollbar {
+    display: none;
+}
